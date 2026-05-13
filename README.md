@@ -1,6 +1,6 @@
 # Estudo de Sockets em Python - Comunicação TCP
 
-Este projeto faz parte do meu portfólio de estudos em **Análise e Desenvolvimento de Sistemas**, focado em infraestrutura de redes e comunicação entre processos em ambiente Linux (WSL2).
+Este projeto faz parte do meu portfólio de estudos em **Fundamentos de Redes para DevOps**, focado em infraestrutura de redes e comunicação entre processos em ambiente Linux (WSL2).
 
 ## 🎯 Objetivos da Aula
 * Implementar um servidor socket utilizando a biblioteca nativa `socket` do Python.
